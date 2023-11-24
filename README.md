@@ -8,4 +8,4 @@ The dataset given isn't available any longer, but it was very similar to MNIST w
 
 https://www.tensorflow.org/datasets/catalog/mnist
 
-A similar PDF version will also be added as the plotly plots din't show up in the github rendered notebook. 
+A similar HTML version of the notebook will be added as the plotly plots din't show up in the github rendered notebook. 
